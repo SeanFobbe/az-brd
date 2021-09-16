@@ -1,0 +1,220 @@
+stelle,zeichen_code,zeichen_original,position,bedeutung,normen,verwendung_ende
+BVerwG,AR ,AR ,hauptzeichen,Allgemeines Register (Vorverfahren oder sonstige Verfahrensarten),NA,NA
+BVerwG,A ,A ,hauptzeichen,"Erstinstanzliche Klage, inklusive Wiederaufnahmeverfahren (Verwaltungsstreitsachen)",§ 50 VwGO,NA
+BVerwG,AV ,AV ,hauptzeichen,Allgemeine Verfahren (sonstige Anträge außerhalb eines schwebenden Verfahrens),NA,NA
+BVerwG,B ,B ,hauptzeichen,Nichtzulassungsbeschwerde oder Beschwerde (Verwaltungsstreitsachen),§ 133 VwGO,NA
+BVerwG,BN ,BN ,hauptzeichen,Nichtzulassungsbeschwerde (Normenkontrollsachen),§ 133 VwGO,NA
+BVerwG,C ,C ,hauptzeichen,Revision (Verwaltungsstreitsachen),§ 49 VwGO; § 132 VwGO,NA
+BVerwG,CN ,CN ,hauptzeichen,Revision (Normenkontrollsachen),§ 49 VwGO; § 132 VwGO,NA
+BVerwG,D ,D ,hauptzeichen,Revision (Disziplinarsachen),"§ 69 BDG, § 70 BDG",2015-06-01
+BVerwG,D,D,zusatz,Entschädigungsverfahren wegen überlanger Verfahrensdauer,§ 201 GVG,NA
+BVerwG,D-AV,D-AV,hauptzeichen,Allgemeines Register: Vorverfahren oder sonstige Verfahrensarten (Disziplinarsachen),NA,2015-06-01
+BVerwG,D-PKH ,D-PKH ,hauptzeichen,Prozesskostenhilfe (Disziplinarsachen),NA,2015-06-01
+BVerwG,D-St,D-St,hauptzeichen,Angeforderte Stellungnahmen der Senate des Bundesverwaltungsgerichts (Disziplinarsenat),§ 12 RsprEinhG,2015-06-01
+BVerwG,DB ,DB ,hauptzeichen,Beschwerde (Disziplinarsachen),§ 69 BDG,2015-06-01
+BVerwG,DW ,DW ,hauptzeichen,Wiederaufnahme (Disziplinarsachen),§§ 71 ff BDG,2015-06-01
+BVerwG,ER,ER,hauptzeichen,Sonstige Eingänge,NA,NA
+BVerwG,F ,F ,hauptzeichen,Fachsenat (Verwaltungsstreitsachen),§ 99 II VwGO; § 189 VwGO,NA
+BVerwG,GrSen,GrSen,hauptzeichen,Großer Senat des Bundesverwaltungsgerichts,§ 11 VwGO,NA
+BVerwG,KSt ,KSt ,hauptzeichen,Kostensachen ,§ 154 ff VwGO,NA
+BVerwG,P ,P ,hauptzeichen,Rechtsbeschwerde (Personalvertretungs- und Richtervertretungssachen),§ 83 BPersVG; § 60 DRiG; § 92 ArbGG,NA
+BVerwG,PB ,PB ,hauptzeichen,Nichtzulassungsbeschwerde (Personalvertretungs- und Richtervertretungssachen),NA,NA
+BVerwG,PKH ,PKH ,hauptzeichen,Prozesskostenhilfe,NA,NA
+BVerwG,St,St,hauptzeichen,Angeforderte Stellungnahmen der Senate des Bundesverwaltungsgerichts,§ 12 RsprEinhG,NA
+BVerwG,VR ,VR ,hauptzeichen,Vorläufiger Rechtsschutz,§ 80 VwGO; § 123 VwGO,NA
+BVerwG,WA ,WA ,hauptzeichen,"Erstinstanzliche Klage, inklusive Wiederaufnahmeverfahren (Wehrdienstsenat)",NA,NA
+BVerwG,WB ,WB ,hauptzeichen,Verfahren nach Wehrbeschwerdeordnung ,NA,NA
+BVerwG,WBW,WBW,hauptzeichen,"Wiederaufnahme, Wehrbeschwerdeordnung","§ 23a I WBO, § 129 ff WDO",NA
+BVerwG,WD ,WD ,hauptzeichen,Berufung (Wehrdisziplinarsachen),§ 115 ff WDO,NA
+BVerwG,WDB ,WDB ,hauptzeichen,"Rechtsmittelverfahren über Anträge, Beschwerden und Vorlagen nach der Wehrdisziplinarordnung",§ 114 WDO,NA
+BVerwG,WDS-AV ,WDS-AV ,hauptzeichen,Allgemeine Verfahren (Wehrdienstsenate),NA,NA
+BVerwG,WDS-KSt ,WDS-KSt ,hauptzeichen,Kostensachen (Wehrdienstsenate),NA,NA
+BVerwG,WDS-PKH ,WDS-PKH ,hauptzeichen,Prozesskostenhilfe (Wehrdienstsenate),NA,NA
+BVerwG,WDS-St,WDS-St,hauptzeichen,Angeforderte Stellungnahmen der Senate des Bundesverwaltungsgerichts (Wehrdienstsenate),§ 12 RsprEinhG,2015-06-01
+BVerwG,WDS-VR ,WDS-VR ,hauptzeichen,Vorläufiger Rechtsschutz (Wehrdienstsenate),NA,NA
+BVerwG,WDW ,WDW ,hauptzeichen,Wiederaufnahme (Wehrdisziplinarsachen),§ 129 ff WDO,NA
+BVerwG,WNB ,WNB ,hauptzeichen,Nichtzulassungsbeschwerde nach Wehrbeschwerdeordnung ,§ 22b WBO,NA
+BVerwG,WRB ,WRB ,hauptzeichen,Rechtsbeschwerde nach Wehrbeschwerdeordnung ,§ 22a WBO,NA
+BVerfG,AR ,AR ,hauptzeichen,Allgemeines Register: Vorverfahren oder sonstige Verfahrensarten,NA,NA
+BVerfG,BvA ,BvA ,hauptzeichen,Verwirkung von Grundrechten,Art. 18 GG,NA
+BVerfG,BvB ,BvB ,hauptzeichen,Verfassungswidrigkeit von Parteien,Art. 21 II GG,NA
+BVerfG,BvC ,BvC ,hauptzeichen,Wahlprüfungsverfahren,Art. 41 II GG,NA
+BVerfG,BvD ,BvD ,hauptzeichen,Anklage des Bundespräsidenten,Art. 61 GG,NA
+BVerfG,BvE ,BvE ,hauptzeichen,Organstreitverfahren,Art. 93 I Nr.1 GG,NA
+BVerfG,BvF ,BvF ,hauptzeichen,Abstrakte Normenkontrolle,Art. 93 I Nr.2 GG,NA
+BVerfG,BvG ,BvG ,hauptzeichen,Bund-Länder-Streitigkeiten,Art. 93 I Nr.3 GG; Art. 84 IV S.2 GG,NA
+BVerfG,BvH,BvH,hauptzeichen,Andere Streitigkeiten zwischen Bund und Ländern,Art. 93 I Nr.4 GG,NA
+BVerfG,BvJ,BvJ,hauptzeichen,Anklage von Richtern des Bundesverfassungsgerichts,"Art. 98 II, V GG",NA
+BVerfG,BvK ,BvK ,hauptzeichen,Landesverfassungsstreitigkeiten,Art. 99 GG,NA
+BVerfG,BvL ,BvL ,hauptzeichen,Konkrete Normenkontrolle,Art. 100 I GG,NA
+BVerfG,BvM ,BvM ,hauptzeichen,Feststellung der Anwendbarkeit einer Regel des Völkergewohnheitsrechts,Art. 100 II GG; Art 25 GG,NA
+BVerfG,BvN ,BvN ,hauptzeichen,Divergenzvorlagen eines Landesverfassungsgerichts zur Auslegung des Grundgesetzes,Art. 100 III GG,NA
+BVerfG,BvO ,BvO ,hauptzeichen,Fortgeltung vorkonstitutionellen Rechts als Bundesrecht,Art. 126 GG,NA
+BVerfG,BvP ,BvP ,hauptzeichen,Sonstige durch Bundesrecht zugewiesene Verfahren,Art. 93 III GG,NA
+BVerfG,BvQ ,BvQ ,hauptzeichen,Einstweilige Anordnungen,§ 32 BVerfGG,NA
+BVerfG,BvR ,BvR ,hauptzeichen,Verfassungsbeschwerden; Kommunalverfassungsbeschwerden,Art. 93 I Nr.4a GG; Art. 93 I Nr.4b GG,NA
+BVerfG,BvT ,BvT ,hauptzeichen,Sonstige Verfahren,NA,NA
+BVerfG,PBvS ,PBvS ,hauptzeichen,Beendigung des Richteramtes am Bundesverfassungsgericht,§ 105 BVerfGG,NA
+BVerfG,PBvU ,PBvU ,hauptzeichen,Plenarentscheidungen,§ 16 BVerfGG,NA
+BVerfG,PBvV ,PBvV ,hauptzeichen,Rechtsgutachten,§ 97 BVerfGG a.F.,1956
+BVerfG,PKH ,PKH ,hauptzeichen,Prozesskostenhilfe,NA,NA
+BVerfG,Vz ,Vz ,hauptzeichen,Verzögerungsbeschwerde,§ 97b BVerfGG,NA
+BGH,AK,AK ,hauptzeichen,Aktenkontrolle für Haftprüfungsverfahren,NA,NA
+BGH,AnwSt,AnwSt,hauptzeichen,Anträge auf Einleitung des anwaltsgerichtlichen Verfahrens und Beschwerden in Ordnungsmittelverfahren gegen Rechtsanwälte beim Bundesgerichtshof,NA,NA
+BGH,AnwStB,AnwSt(B) ,hauptzeichen,Beschwerden gegen die Nichtzulassung der Revision und Beschwerden gegen Entscheidungen eines Anwaltsgerichtshofes,NA,NA
+BGH,AnwStR,AnwSt(R) ,hauptzeichen,Revisionen gegen Urteile eines Anwaltsgerichtshofes,§ 145 BRAO,NA
+GBA,AnwSt,AnwSt,hauptzeichen,Anträge auf Einleitung des anwaltsgerichtlichen Verfahrens und Beschwerden in Ordnungsmittelverfahren gegen Rechtsanwälte beim Bundesgerichtshof,NA,NA
+GBA,AnwStB,AnwSt(B) ,hauptzeichen,Beschwerden gegen die Nichtzulassung der Revision und Beschwerden gegen Entscheidungen eines Anwaltsgerichtshofes,NA,NA
+GBA,AnwStR,AnwSt(R) ,hauptzeichen,Revisionen gegen Urteile eines Anwaltsgerichtshofes,NA,NA
+BGH,AnwZ,AnwZ ,hauptzeichen,Klagen über Entscheidungen in Zulassungssachen oder gegen sonstige Verwaltungsakte betreffend Rechtsanwälte beim Bundesgerichtshof,NA,NA
+BGH,AnwZB,AnwZ(B) ,hauptzeichen,Beschwerden gegen Entscheidungen eines Anwaltsgerichtshofes,NA,NA
+BGH,AnwZBrfg,AnwZ(Brfg) ,hauptzeichen,Berufungen und Anträge auf Zulassung der Berufung gegen Entscheidungen eines Anwaltsgerichtshofes,NA,NA
+BGH,AnwZP,AnwZ(P) ,hauptzeichen,Klagen über die Anfechtung von Wahlen und Beschlüssen der Rechtsanwaltskammer beim BGH und der Bundesrechtsanwaltskammer,NA,NA
+BGH,AR,AR,hauptzeichen,Allgemeines Register,NA,NA
+GBA,AR,AR,hauptzeichen,Allgemeines Register,NA,NA
+BGH,ARs,ARs ,hauptzeichen,Allgemeines Register und Gerichtsstandsbestimmungen (Strafsachen),NA,NA
+GBA,ARP,ARP,hauptzeichen,Allgemeines Register (Staatsschutzstrafsachen),NA,NA
+BGH,ARAnw,AR(Anw) ,hauptzeichen,Allgemeines Register (Anwaltssachen),NA,NA
+GBA,AREnw,AR(Enw) ,hauptzeichen,Rechtsbeschwerden in Bußgeldverfahren nach dem EnWG,NA,NA
+GBA,ARKart ,AR(Kart) ,hauptzeichen,Rechtsbeschwerden in Kartellbußgeldverfahren,NA,NA
+BGH,ARNot,AR(Not) ,hauptzeichen,Allgemeines Register (Notarsachen),NA,NA
+BGH,ARRi,AR(Ri) ,hauptzeichen,Allgemeines Register (Dienstgericht des Bundes),NA,NA
+BGH,ARsVollz,AR(Vollz) ,hauptzeichen,Vorlegungssachen (Strafvollzugssachen),NA,NA
+BGH,ARVS,AR(VS) ,hauptzeichen,Entscheidungen über Justizverwaltungsakte (Strafsachen),NA,NA
+BGH,ARVZ,AR(VZ) ,hauptzeichen,Entscheidungen über Justizverwaltungsakte (Zivilsachen),§ 29 EGGVG,NA
+BGH,ARZ,ARZ ,hauptzeichen,Allgemeines Register und Gerichtsstandsbestimmungen (Zivilsachen),NA,NA
+GBA,BAusl,BAusl,hauptzeichen,Auslieferungssachen,NA,NA
+BGH,BGs,BGs ,hauptzeichen,Einzelne richterliche Anordnungen des Ermittlungsrichters (Strafsachen),NA,NA
+GBA,BGns,BGns,hauptzeichen,Gnadensachen,NA,NA
+GBA,BJs,BJs,hauptzeichen,Ermittlungsverfahren des Generalbundesanwalts beim Bundesgerichtshof,NA,NA
+BGH,BLw,BLw ,hauptzeichen,Rechtsbeschwerden in Landwirtschaftssachen der freiwilligen Gerichtsbarkeit,NA,NA
+BGH,EnRB,EnRB,hauptzeichen,Rechtsbeschwerden in Bußgeldverfahren nach dem EnWG,§ 99 EnWG,NA
+BGH,EnVR,EnVR ,hauptzeichen,Rechtsbeschwerden in energiewirtschaftsrechtlichen Verwaltungssachen nach dem EnWG,NA,NA
+BGH,EnVZ,EnVZ ,hauptzeichen,Nichtzulassungsbeschwerden in energiewirtschaftsrechtlichen Verwaltungssachen nach dem EnWG,NA,NA
+BGH,EnZA,EnZA,hauptzeichen,Anträge außerhalb eines in der Rechtsmittelinstanz anhängigen Rechtsstreits in bürgerlichen Rechtsstreitigkeiten nach dem EnWG,NA,NA
+BGH,EnZB,EnZB ,hauptzeichen,Rechtsbeschwerden und Beschwerden in bürgerlichen Rechtsstreitigkeiten nach dem EnWG,NA,NA
+BGH,EnZR,EnZR ,hauptzeichen,"Revisionen, Beschwerden gegen die Nichtzulassung der Revision und Anträge auf Zulassung der Sprungrevision in bürgerlichen Rechtsstreitigkeiten nach dem EnWG",NA,NA
+BGH,GmsOGB,GmSOGB ,hauptzeichen,Gemeinsamer Senat der Obersten Gerichtshöfe des Bundes,NA,NA
+BGH,GSSt,GSSt ,hauptzeichen,Großer Senat (Strafsachen),§ 132 GVG,NA
+BGH,GSZ,GSZ ,hauptzeichen,Großer Senat (Zivilsachen),NA,NA
+BGH,KRB,KRB ,hauptzeichen,Rechtsbeschwerden in Kartellbußgeldverfahren,§ 84 GWB,NA
+BGH,KVR,KVR ,hauptzeichen,Rechtsbeschwerden (Kartellverwaltungssachen),NA,NA
+BGH,KVZ,KVZ ,hauptzeichen,Nichtzulassungsbeschwerden (Kartellverwaltungssachen),NA,NA
+BGH,KZA,KZA,hauptzeichen,Anträge außerhalb eines in der Revisionsinstanz anhängigen Rechtsstreits (Kartellsachen),NA,NA
+BGH,KZB,KZB ,hauptzeichen,Rechtsbeschwerden und Beschwerden in bürgerlichen Rechtsstreitigkeiten (Kartellsachen),NA,NA
+BGH,KZR,KZR ,hauptzeichen,"Revisionen, Beschwerden gegen die Nichtzulassung der Revision und Anträge auf Zulassung der Sprungrevision in bürgerlichen Rechtsstreitigkeiten (Kartellsachen)",NA,NA
+BGH,LwZA,LwZA ,hauptzeichen,Anträge außerhalb eines in der Revisionsinstanz für Landwirtschaftssachen anhängigen Verfahrens,NA,NA
+BGH,LwZB,LwZB ,hauptzeichen,Beschwerden und Rechtsbeschwerden in Landwirtschaftssachen der streitigen bürgerlichen Gerichtsbarkeit,NA,NA
+BGH,LwZR,LwZR ,hauptzeichen,"Revisionen, Beschwerden gegen die Nichtzulassung der Revision und Anträge auf Zulassung der Sprungrevision (Landwirtschaftssachen)",NA,NA
+BGH,NotStB,NotSt(B) ,hauptzeichen,Beschwerden gegen Beschlüsse der Oberlandesgerichte in Disziplinarsachen gegen Notare,NA,NA
+BGH,NotStBrfg,NotSt(Brfg) ,hauptzeichen,Berufungen und Anträge auf Zulassung der Berufung gegen Urteile der Oberlandesgerichte in Disziplinarsachen gegen Notare,NA,NA
+BGH,NotZ,NotZ ,hauptzeichen,Verwaltungsstreitverfahren in Notarsachen und Beschwerden gegen Entscheidungen der Oberlandesgerichte,NA,NA
+BGH,NotZBrfg,NotZ(Brfg) ,hauptzeichen,Berufungen und Anträge auf Zulassung der Berufung gegen Entscheidungen der Oberlandesgerichte in Notarsachen,NA,NA
+BGH,PatAnwStR,PatAnwSt(R),hauptzeichen,Revisionen nach der PatAO,NA,NA
+BGH,PatAnwStB,PatAnwSt(B),hauptzeichen,Beschwerden gegen die Nichtzulassung der Revision und Beschwerden nach der PatAO,NA,NA
+GBA,PatAnwStR,PatAnwSt(R),hauptzeichen,Revisionen nach der PatAO,NA,NA
+GBA,PatAnwStB,PatAnwSt(B),hauptzeichen,Beschwerden gegen die Nichtzulassung der Revision und Beschwerden nach der PatAO,NA,NA
+BGH,PatAnwZ,PatAnwZ ,hauptzeichen,Verwaltungsstreitverfahren in Patentanwaltssachen; Berufungen und Anträge auf Zulassung der Berufung und Beschwerden gegen Entscheidungen der Oberlandesgerichte,NA,NA
+BGH,RiSt,RiSt,hauptzeichen,"Disziplinarsachen und Anträge auf Einleitung oder Einstellung des förmlichen Disziplinarverfahrens, auf vorläufige Dienstenthebung, auf Einbehaltung von Dienstbezügen sowie auf Aufhebung dieser Maßnahmen gegen Richter und Staatsanwälte im Bundesdienst sowie Mitglieder des Bundesrechnungshofes",NA,NA
+BGH,RiStB,RiSt(B) ,hauptzeichen,"Beschwerden gegen die Nichtzulassung der Revision und Beschwerden der Richter, Staatsanwälte und Mitglieder des Bundesrechnungshofes gegen Disziplinarverfügungen",NA,NA
+BGH,RiStR,RiSt(R) ,hauptzeichen,Revisionen in Disziplinarsachen nach dem Deutschen Richtergesetz,NA,NA
+BGH,RiZ,RiZ ,hauptzeichen,Anträge betreffend Richter im Bundesdienst und Mitglieder des Bundesrechnungshofes auf gerichtliche Entscheidung im Versetzungs- und Prüfungsverfahren sowie auf vorläufige Untersagung der Amtsgeschäfte,NA,NA
+BGH,RizB,RiZ(B) ,hauptzeichen,Beschwerden gegen die Nichtzulassung der Revision nach dem Deutschen Richtergesetz,NA,NA
+BGH,RiZR,RiZ(R) ,hauptzeichen,Revisionen in Versetzungs- und Prüfungsverfahren nach dem Deutschen Richtergesetz,NA,NA
+BGH,StB,StB ,hauptzeichen,Beschwerden (Strafsachen),NA,NA
+GBA,StE,StE,hauptzeichen,"Strafsachen vor den Oberlandesgerichten, in denen der Generalbundesanwalt beim Bundesgerichtshof Anklage erhoben hat",NA,NA
+BGH,StbStB,StbSt(B) ,hauptzeichen,Beschwerden gegen die Nichtzulassung der Revision und Beschwerden in berufsgerichtlichen Verfahren (Steuerberater- und Steuerbevollmächtigtensachen),NA,NA
+BGH,StbStR,StbSt(R) ,hauptzeichen,Revisionen in berufsgerichtlichen Verfahren (Steuerberater- und Steuerbevollmächtigtensachen),NA,NA
+GBA,StbStB,StbSt(B) ,hauptzeichen,Beschwerden gegen die Nichtzulassung der Revision und Beschwerden in berufsgerichtlichen Verfahren (Steuerberater- und Steuerbevollmächtigtensachen),NA,NA
+GBA,StbStR,StbSt(R) ,hauptzeichen,Revisionen in berufsgerichtlichen Verfahren (Steuerberater- und Steuerbevollmächtigtensachen),NA,NA
+BGH,StR,StR ,hauptzeichen,"Revisionen und Vorlegungssachen nach § 121 Abs.1 Nr.1, Abs. 2 GVG, § 79 Abs. 3 OWiG, §§ 13 Abs. 4, 25 StrRehaG (Strafsachen)","§ 121 I Nr.1, II S.2 GVG; § 79 III OWiG; § 13 IV StrRehaG; § 25 StrRehaG",NA
+GBA,StR,StR ,hauptzeichen,"Revisionen und Vorlegungssachen nach § 121 Abs.1 Nr.1, Abs. 2 GVG, § 79 Abs. 3 OWiG, §§ 13 Abs. 4, 25 StrRehaG (Strafsachen)","§ 121 I Nr.1, II S.2 GVG; § 79 III OWiG; § 13 IV StrRehaG; § 25 StrRehaG",NA
+BGH,VGS,VGS ,hauptzeichen,Vereinigte Große Senate,§ 132 GVG,NA
+BGH,VRG,VRG,hauptzeichen,Ersuchen des Bundesverfassungsgerichts zu Vorlagen nach Art. 100 GG und zu Verfassungsbeschwerden ,NA,NA
+BGH,WpStB,WpSt(B) ,hauptzeichen,Beschwerden gegen die Nichtzulassung der Revision und Beschwerden in berufsgerichtlichen Verfahren (Wirtschaftsprüfersachen),NA,NA
+BGH,WpStR,WpSt(R) ,hauptzeichen,Revisionen in berufsgerichtlichen Verfahren (Wirtschaftsprüfersachen),NA,NA
+GBA,WpStB,WpSt(B) ,hauptzeichen,Beschwerden gegen die Nichtzulassung der Revision und Beschwerden in berufsgerichtlichen Verfahren (Wirtschaftsprüfersachen),NA,NA
+GBA,WpStR,WpSt(R) ,hauptzeichen,Revisionen in berufsgerichtlichen Verfahren (Wirtschaftsprüfersachen),NA,NA
+BGH,ZA,ZA ,hauptzeichen,Anträge außerhalb eines in der Rechtsmittelinstanz anhängigen Verfahrens (Zivilsachen),NA,NA
+BGH,ZB,ZB ,hauptzeichen,"Beschwerden, Rechtsbeschwerden, weitere Beschwerden, Beschwerden gegen die Nichtzulassung der Revision nach dem BEG (Zivilsachen)",NA,NA
+BGH,ZR,ZR ,hauptzeichen,"Revisionen, Beschwerden gegen die Nichtzulassung der Revision, Anträge auf Zulassung der Sprungrevision, Berufungen in Patentsachen (Zivilsachen)",NA,NA
+BGH,ZRÜ,ZR(Ü) ,hauptzeichen,Erstinstanzliche Klagen auf Entschädigung wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren (Zivilsachen),NA,NA
+BPatG,Li,Li ,hauptzeichen,Zwangslizenzverfahren ,NA,NA
+BPatG,LiQ,LiQ ,hauptzeichen,Einstweilige Verfügungen in Zwangslizenzverfahren,NA,NA
+BPatG,Ni,Ni ,hauptzeichen,Patentnichtigkeitsverfahren ,NA,NA
+BPatG,W-pat,W (pat) ,hauptzeichen,"Beschwerdeverfahren in Patentsachen, Gebrauchsmustersachen, Sortenschutzsachen, Markensachen",NA,NA
+BPatG,ZA-pat,ZA (pat) ,hauptzeichen,Verfahren über Anträge außerhalb anhängiger Patentsachen,NA,NA
+BAG,ABN ,ABN ,hauptzeichen,Nichtzulassung der Rechtsbeschwerde,§ 92a ArbGG,NA
+BAG,ABR ,ABR ,hauptzeichen,Rechtsbeschwerde,§§ 92 ff ArbGG,NA
+BAG,ABV ,ABV ,hauptzeichen,Erstinstanzliche Beschlussverfahren aufgrund SGB IX im Geschäftsbereich des Bundesnachrichtendienstes,NA,NA
+BAG,ACA ,ACA ,hauptzeichen,Erstinstanzliche Urteilsverfahren aufgrund SGB IX im Geschäftsbereich des Bundesnachrichtendienstes,NA,NA
+BAG,AS ,AS ,hauptzeichen,Sonderverfahren,NA,NA
+BAG,AZA ,AZA ,hauptzeichen,Prozesskostenhilfe außerhalb anhängiger Verfahren,NA,NA
+BAG,AZB ,AZB ,hauptzeichen,Sofortige Beschwerde wegen verspäteter Absetzung des Berufungsurteils; Revisionsbeschwerde; Rechtsbeschwerde,§ 72b ArbGG; § 77 ArbGG; § 78 ArbGG,NA
+BAG,AZM ,AZM ,hauptzeichen,Nichtzulassung der Revisionsbeschwerde,§§ 77 Satz 2 ArbGG,NA
+BAG,AZN ,AZN ,hauptzeichen,Nichtzulassung der Revision,§ 72a ArbGG,NA
+BAG,AZR ,AZR ,hauptzeichen,Revisionen in Urteilsverfahren,§ 72 ArbGG,NA
+BAG,E ,E ,hauptzeichen,Klagen gegen den Bund,§ 201 GVG; § 9 II ArbGG,NA
+BAG,GS ,GS ,hauptzeichen,Großer Senat des Bundesarbeitsgerichts,NA,NA
+BFH,AR,AR,hauptzeichen,Allgemeines Register: Vorverfahren oder sonstige Verfahrensarten,NA,NA
+BFH,B,B,hauptzeichen,Beschwerden; Nichtzulassungsbeschwerden,§ 36 Nr.2 FGO; § 116 FGO,NA
+BFH,E,E,hauptzeichen,"Erinnerung zu Kosten und Streitwert, Erinnerung in Kostenfestsetzungsverfahren",NA,NA
+BFH,GrS,GrS,hauptzeichen,Großer Senat,§ 11 FGO,NA
+BFH,K,K,hauptzeichen,Entschädigungsklagen wegen überlanger Verfahrensdauer,§ 201 GVG,NA
+BFH,PKH,PKH,hauptzeichen,Prozesskostenhilfe,NA,NA
+BFH,R,R,hauptzeichen,Revision,§ 36 Nr.1 FGO,NA
+BFH,S,S,hauptzeichen,Sonstige Verfahren,NA,NA
+BSG,A,A,hauptzeichen,Aufsichtsrecht,§§ 83 ff SGB IV,NA
+BSG,AB,AB,hauptzeichen,Ablehnung von Gerichtspersonen,§ 60 SGG,NA
+BSG,AL,AL,hauptzeichen,Arbeitslosenversicherung und übrige Aufgaben der Bundesagentur für Arbeit,NA,NA
+BSG,AR ,AR ,zusatz,Allgemeines Register: Vorverfahren oder sonstige Verfahrensarten,NA,NA
+BSG,AS,AS,hauptzeichen,Grundsicherung für Arbeitsuchende,NA,NA
+BSG,AY,AY,hauptzeichen,Leistungen nach dem Asylbewerberleistungsgesetz,NA,NA
+BSG,B,B,zusatz,Beschwerderegister,NA,NA
+BSG,BH,BH,hauptzeichen,Anträge außerhalb eines anhängigen Beschwerdeverfahrens,NA,NA
+BSG,BK,BK,hauptzeichen,Kinderzuschlag,NA,NA
+BSG,BL,BL,hauptzeichen,Blindengeld beziehungsweise Blindenhilfe,NA,NA
+BSG,C,C,zusatz,Register für Anhörungsrügen,NA,NA
+BSG,D,D,zusatz,Register für Sofortige Beschwerden,NA,NA
+BSG,E,E,hauptzeichen,"Erinnerungen gegen einen Kostenfestsetzungsbeschluss, gegen den Kostenansatz, gegen die Festsetzung der Rechtsanwaltsvergütung einschließlich der PKH-Vergütung",NA,NA
+BSG,EG,EG,hauptzeichen,Elterngeld und Erziehungsgeld (früher auch Betreuungsgeld) ,NA,NA
+BSG,EH,EH,hauptzeichen,Angelegenheiten des Entwicklungshelfergesetzes,NA,NA
+BSG,ER,ER,hauptzeichen,Einstweiliger Rechtsschutz,NA,NA
+BSG,GR,GR,hauptzeichen,Verfahren vor dem Güterichter ,§ 202 S.1 SGG; § 278 V ZPO,NA
+BSG,GS,GS,zusatz,Großer Senat,NA,NA
+BSG,K,K,hauptzeichen,Klage,NA,NA
+BSG,KA,KA,hauptzeichen,Vertragsarztrecht beziehungsweise Vertragszahnarztrecht,NA,NA
+BSG,KG,KG,hauptzeichen,Kindergeld nach dem Kindergeldgesetz,NA,NA
+BSG,KL,KL,zusatz,Klageregister,NA,NA
+BSG,KLH,KLH,zusatz,Anträge außerhalb eines anhängigen Klageverfahrens,NA,NA
+BSG,KN,KN,hauptzeichen,Knappschaftliche Streitigkeiten,NA,2008-07-31
+BSG,KR,KR,hauptzeichen,Gesetzliche Krankenversicherung,NA,NA
+BSG,KS,KS,hauptzeichen,Künstlersozialversicherung,NA,NA
+BSG,LW,LW,hauptzeichen,Alterssicherung der Landwirte und Zusatzversorgung,NA,NA
+BSG,NK,NK,hauptzeichen,Normenkontrollverfahren,NA,NA
+BSG,P,P,hauptzeichen,Pflegeversicherung,NA,NA
+BSG,PKH,PKH,hauptzeichen,Prozesskostenhilfe,NA,NA
+BSG,R,R,hauptzeichen,Gesetzliche Rentenversicherung,NA,NA
+BSG,R,R,zusatz,Revisionsregister,NA,NA
+BSG,RA,RA,hauptzeichen,"Rentenversicherung, Angestellte (obsolet)",NA,2005-12-31
+BSG,RE,RE,hauptzeichen,Streitigkeiten aus dem Deckungsverhältnis der Rentenversicherung,NA,NA
+BSG,RG,RG,hauptzeichen,Anhörungsrügen,NA,NA
+BSG,RH,RH,zusatz,Anträge außerhalb eines anhängigen Revisionsverfahrens,NA,NA
+BSG,RJ,RJ,hauptzeichen,"Rentenversicherung, Arbeitgeber (obsolet)",NA,2005-12-31
+BSG,RS,RS,hauptzeichen,Streitigkeiten nach § 17 AAÜG und andere (Zusatz- und Sonderversorgungen),§ 17 AAÜG,NA
+BSG,S,S,zusatz,Sondersachen,NA,NA
+BSG,SB,SB,hauptzeichen,Schwerbehindertenrecht,NA,NA
+BSG,SF,SF,hauptzeichen,Sonstige Verfahren,NA,NA
+BSG,SO,SO,hauptzeichen,Sozialhilfe,NA,NA
+BSG,SV,SV,hauptzeichen,Sonstige Verfahren (obsolet),NA,NA
+BSG,U,U,hauptzeichen,Gesetzliche Unfallversicherung,NA,NA
+BSG,ÜG,ÜG,hauptzeichen,Rechtsschutz bei überlangen Gerichtsverfahren,NA,NA
+BSG,V,V,hauptzeichen,Soziales Entschädigungsrecht,NA,2010-12-31
+BSG,V,V,hauptzeichen,Kriegsopferversorgung (obsolet),NA,2010-12-31
+BSG,VG,VG,hauptzeichen,Opferentschädigung (obsolet),NA,2010-12-31
+BSG,VH,VH,hauptzeichen,Leistungen nach dem Häftlingshilfegesetz (obsolet),NA,2010-12-31
+BSG,VJ,VJ,hauptzeichen,Infektionsschutzgesetz (obsolet),NA,2010-12-31
+BSG,VK,VK,hauptzeichen,Kriegsopferversorgung nach dem Bundesversorgungsgesetz (obsolet),NA,2010-12-31
+BSG,VM,VM,hauptzeichen,Entschädigung für ehemalige DDR-Bürger infolge medizinischer Maßnahmen (obsolet),NA,2010-12-31
+BSG,VS,VS,hauptzeichen,Soldatenversorgung (obsolet),NA,2010-12-31
+BSG,VU,VU,hauptzeichen,SED-Unrechtsbereinigungsgesetz (obsolet),NA,2010-12-31
